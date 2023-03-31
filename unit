@@ -1,0 +1,55 @@
+[{
+	"car": "E31",
+	"unit_list": ["ABG", "ASC5", "DCS", "DWA", "EDC", "EKM (ZCS)", "EML", "EWS (ZCS)", "GM2", "LKM"]
+}, {
+	"car": "E32",
+	"unit_list": ["DWA", "EDC", "KMBH (ZCS)", "LSM"]
+}, {
+	"car": "E34",
+	"unit_list": ["ABG", "ASC5", "DWA", "EDC", "EWS (ZCS)", "IHKR", "IHR", "KMBH (ZCS)", "KMBL (ZCS)", "LSM", "ZVM"]
+}, {
+	"car": "E36",
+	"unit_list": ["AS2", "AS5", "ASC", "BCL", "BCV", "CKMB (ZCS)", "CVM", "DSC", "DWA", "EWS (ZCS)", "GKMB", "GM4", "GR2", "IHA", "IHR", "KMB (ZCS)", "LKMB", "LWS", "MK20", "MK60", "TOEN(S)", "ZVM"]
+}, {
+	"car": "E38",
+	"unit_list": ["ABG", "ACC", "ASC5", "BIT", "CCM", "DSP", "EDC", "EML", "EWS (ZCS)", "GM3", "GR2", "GT", "HKM", "IHK", "IKE (ZCS)", "LCM", "LM", "LWR", "LWS", "PDC", "RDC", "SEC", "SHD", "SMB", "TUS", "TV1", "ZHZ"]
+}, {
+	"car": "E39",
+	"unit_list": ["ABG", "ASC5", "BIT", "DSC", "DSP", "EDC", "EHC", "EWS (ZCS)", "GM3", "GR2", "GT", "HKM", "IHKA", "IHKR", "IHR", "IKE (ZCS)", "KMB (ZCS)", "LCM", "LWR", "LWS", "PDC", "RAD", "RDC", "RLS", "SMB", "TCU", "TUS", "TV1", "ULF", "ZHZ"]
+}, {
+	"car": "E46",
+	"unit_list": ["4BMOT", "ABG", "AEWS", "AKMB (FA)", "ALC", "ALSZ (FA)", "ASC", "BIT", "BTM", "DSC", "EKP", "EWS (ZCS)", "FTM", "GM5", "GR2", "GT", "IHKA", "IHKR", "KMB (ZCS)", "LSMC", "LWS", "MIR", "MK60", "PDC", "RAD", "RDC", "RLS", "RSMC", "SHD", "SMB", "TCU", "TUS", "TV1", "UEB", "ULF", "ZHZ"]
+}, {
+	"car": "E52",
+	"unit_list": ["ABG", "DCS", "ELV", "EWS (ZCS)", "GM5", "GT", "IHKS", "IKE (ZCS)", "LCM", "LWR", "LWS", "RAD"]
+}, {
+	"car": "E53",
+	"unit_list": ["8BMOT", "ABG", "ALC", "BIT", "DCS", "DSP", "DtrueC", "EHC", "EHC2", "EWS (ZCS)", "GM3", "GT", "IHKA", "IHKR", "KMB (ZCS)", "KMBI (ZCS)", "LCM", "LSMC", "LWR", "LWS", "OC3", "PDC", "RAD", "RDC", "RLMC", "RLS", "SHD", "SMB", "TCU", "TUS", "TV", "ULF", "VGSG", "ZHZ"]
+}, {
+	"car": "E60_64",
+	"unit_list": ["2LSMC", "2RSMC", "4BMOT", "6BMOT", "6DMOT", "8BMOT", "ABG", "ACC", "AFS", "AHM", "ALC", "AMPT", "ARS", "BALBV", "BFS", "CANS", "CAPPL", "CAS", "CAUDI", "CGATE", "CHAMP", "CHOST", "CTUNE", "CVM", "DAB", "DSC", "DWAI", "DWAS", "EDC", "EGS", "EHB3", "EHC", "EKP", "FALBV", "FAS", "FDM", "FLA", "HKL", "HUD", "IHKA", "JTCA", "KBM", "KGM", "KMB (ZCS)", "KOMBI", "LCPA", "LDM", "LMA", "LSMC", "MASK", "MMC", "MPM", "MSHD", "MULF", "NIVI", "PGS", "RLS", "RSMC", "SBSL", "SBSR", "SFZ", "SGM", "SHD", "SHZH", "SZL", "SZM", "TBFT", "TCUM", "TGFT", "TLC", "TMBF", "TMBT", "VGSG"]
+}, {
+	"car": "E65_68",
+	"unit_list": ["2LSMC", "2RSMC", "6BMOT", "8BMOT", "ACC", "AHM", "ALC", "ARS", "BFH", "CAS", "CIM", "DAB", "DWAI", "DWAS", "EDC", "EGS", "EHC", "EMF", "FAH", "FAS", "FBI", "FKA", "FLA", "HKL", "IHKA", "KOMBI", "LMA", "LMOT", "LSMC", "MMC", "MMIF", "MMIGT", "NAV", "NIVI", "PDC", "PGS", "PMA", "RDC", "RLS", "RMOT", "RSMC", "SASL", "SASR", "SBSL", "SBSR", "SEC1", "SEC2", "SFZ", "SHD", "SHZH", "SIM", "SSBF", "SSFA", "SSH", "STVL", "STVR", "SZL", "TCUM", "TE65", "TGBH", "TGBT", "TMFT", "TNFH", "TUNER", "TUS", "WIM"]
+}, {
+	"car": "E70_72",
+	"unit_list": ["ACC", "ACSM", "AHM", "AL", "AMP", "APM", "ARS", "BPCM", "CA", "CAS", "CCC", "CDC", "CIC", "CID", "CMB_MEDIA", "CON", "DAB", "DDE", "DME", "DSC", "DSM", "DVD", "DVD-C", "EDCSHL", "EDCSHR", "EDCSVL", "EDCSVR", "EGS", "EHC", "EKK", "EKP", "EMF", "EPS", "FD", "FD2", "FDM", "FKA", "FLA", "FRM", "FZD", "GWS", "HKL", "HUD", "IBOC", "IHKA", "IHM", "JBE", "KHI", "KOMBI", "LDM", "LDM2", "MASK", "NAV", "NVE", "PDC", "PEB", "QMVH", "RDC", "RFK", "RLSS", "RSE", "SBA", "SDARS", "SINE", "SMBF", "SMFA", "SVT", "TFE", "TLC", "TRSVC", "ULF", "ULF-SBtrue", "VDM", "VM", "VSW", "VTC", "VTG"]
+}, {
+	"car": "E83",
+	"unit_list": ["AHL", "CDC", "CID", "DDE", "DME", "DSC", "DSP", "EGS", "EKP", "EWS (ZCS)", "GM", "IHKA", "JNAV", "KOMBI", "LM", "LSZ", "LWS", "MFL", "MRS", "NAV", "PDC", "RAD", "RDC", "RLS", "SBFF", "SHD", "SMF", "SVT", "SZM", "ULF", "VM", "VM-GT", "VTC", "VTG"]
+}, {
+	"car": "E85_86",
+	"unit_list": []
+}, {
+	"car": "E89",
+	"unit_list": ["1RAD", "2RAD", "4BMOT", "4DMOT", "6BMOT", "6DMOT", "ABG", "ACC", "AFS", "AHM", "AMPT", "BFGB", "BFS", "CANS", "CAPPL", "CAS", "CAUDI", "CGATE", "CHOST", "CIC", "CID", "CTUNE", "CVM", "DAB", "DSC", "DWAI", "DWAS", "EGS", "EHC", "EKP", "FAGB", "FAS", "FLA", "FRM", "FZD", "IHK", "JBFF", "JTCU", "KOMBI", "LDM", "LSMC", "MASK", "MULF", "PDC", "PGS", "RLS", "RSMC", "SHD", "TCUM", "TGBT", "TGFT", "VGSG"]
+}, {
+	"car": "R50",
+	"unit_list": []
+}, {
+	"car": "R55",
+	"unit_list": []
+}, {
+	"car": "RR1_RR3",
+	"unit_list": []
+}]
